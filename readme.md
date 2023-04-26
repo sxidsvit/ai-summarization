@@ -1,18 +1,24 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+## Sum up Articles with OpenAI GPT-4
 
-## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
- 
-Alongside building this application, you'll also learn how to:
-- setup a ReactJS project using Vite
-- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
-- make advanced RTK query API requests that fire on condition
-- save history using the local storage
-- handle form events and catch errors
-- implement copy to clipboard
-- write clean code
+##  Facilitate your reading with Sumz, an open-source article summarizer  <br>that converts very long and time-consuming articles into clear and concise summaries
+### Based on using : 
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+[Vite](https://vitejs.dev/) - next Generation Frontend Tooling
+
+[Redux Toolkit](https://redux-toolkit.js.org/) - The official, opinionated, batteries-included toolset for efficient Redux development
+
+[RapidAPI](https://rapidapi.com/hub) - discover and connect to thousands of APIs
+
+
+[TailwindCSS](https://tailwindcss.com/) - a popular utility-first CSS styling framework
+
+
+[Visit site](https://ai-summarization.vercel.app/) - Vercel hosting
+
+
+---
+
+##### Contact with me: 
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
