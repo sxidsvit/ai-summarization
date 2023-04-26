@@ -13,7 +13,7 @@
 [TailwindCSS](https://tailwindcss.com/) - a popular utility-first CSS styling framework
 
 
-[Visit site](https://ai-summarization.vercel.app/) - Vercel hosting
+[Visit site](https://summarization-with-ai.vercel.app/) - Vercel hosting
 
 
 ---
